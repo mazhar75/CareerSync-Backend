@@ -14,8 +14,7 @@
   - [Running the Application](#running-the-application)
 - [Deployment](#deployment)
 - [Future Improvements & Cautions](#future-improvements--cautions)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+
 
 ## Overview
 
