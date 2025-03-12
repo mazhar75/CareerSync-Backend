@@ -134,4 +134,3 @@ For hosting on platforms like Render (or AWS Free Tier), push your clean code (w
 
 ---
 
-This README.md provides a comprehensive overview of the CareerSync Backend project, covering all aspects from technology stack and core features to setup, deployment, and future improvements. You can now push this file to your repository, and it will serve as the documentation for your project on GitHub.
